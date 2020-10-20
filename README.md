@@ -1,2 +1,2 @@
 # OriginalLasmContent
-Bolt extensions from LASM.  Kept for learning purposes
+A collection of Bolt extensions from LifeStyleAndMedia.  Kept for learning purposes.
